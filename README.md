@@ -9,8 +9,8 @@ O sistema usa um arquivo json que contém os parâmetros usados para os cálculo
 
 ```
 emp;12345678900;João da Silva;2
-rub;1001;Salário Base;P;5000.00
-rub;2001;Vale Transporte;D;300.00
+rub;1001;Salário Base;P;5000
+rub;2001;Vale Transporte;D;300
 ```
 
 ## Parâmetros
