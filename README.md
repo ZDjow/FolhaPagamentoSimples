@@ -40,7 +40,7 @@ Tanto o Console.exe quando o GUI.exe realizam os cálculos da folha e se encontr
 Esse sistema foi criado com .Net 8 por isso precisa de uma máquina que tenha o 8 instalado, principalmente por causa do SDK.  
 Obs: Mesmo que eu use o Core para aplicações pessoais não tenho problemas em trabalhar com o Framework.
 
-Gostaria muito de ser chamada para um entrevista técnica. De qualquer forma obrigado pela oportunidade!!
+Gostaria muito de ser chamado para um entrevista técnica. De qualquer forma obrigado pela oportunidade!!
 
 Atenciosamente,  
 Djonathan Zuchi.
