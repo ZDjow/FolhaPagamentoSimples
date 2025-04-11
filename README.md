@@ -26,7 +26,7 @@ Sintam-se a vontade para alterar tanto o diretório quanto os parâmetros!
 
 ## Executáveis
 
-Tanto o Console.exe quando o GUI.exe realizam os cálculos da folha e se encontram na pasta bin da raiz do projeto.
+Tanto o Console.exe quanto o GUI.exe realizam os cálculos da folha e se encontram na pasta bin da raiz do projeto.
 
 ## Opcionais implementados
 
