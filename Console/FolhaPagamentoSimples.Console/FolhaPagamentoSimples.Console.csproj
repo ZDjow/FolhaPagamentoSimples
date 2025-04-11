@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+	<TargetFramework>net8.0</TargetFramework>
+	<AssemblyName>Console</AssemblyName>
+	<OutputPath>..\..\bin\</OutputPath>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Business\FolhaPagamentoSimples.Business.Entidades\FolhaPagamentoSimples.Business.Entidades.csproj" />
+    <ProjectReference Include="..\..\Business\FolhaPagamentoSimples.Business.Regras\FolhaPagamentoSimples.Business.Regras.csproj" />
+    <ProjectReference Include="..\..\Business\FolhaPagamentoSimples.Business.Utils\FolhaPagamentoSimples.Business.Utils.csproj" />
+  </ItemGroup>
+
+</Project>

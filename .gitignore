@@ -1,0 +1,18 @@
+# Build
+bin/
+obj/
+
+# Arquivos específicos
+*.user
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+
+# JSON temporários
+*.json~
+
+# CSV gerados
+*.csv

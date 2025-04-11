@@ -1,0 +1,44 @@
+{
+  "_Comentário": "Contém parâmetros para cálculo da folha que podem ser alterados pelo usuário. As faixas do IR são inteiros baseados na qtd de salários mínimos.",
+  "SalarioMinimo": 1518.00,
+  "FaixasINSS": [
+    {
+      "Faixa": 1518.00,
+      "Aliquota": 0.075
+    },
+    {
+      "Faixa": 2793.88,
+      "Aliquota": 0.09
+    },
+    {
+      "Faixa": 4190.83,
+      "Aliquota": 0.12
+    },
+    {
+      "Faixa": 4190.84,
+      "Aliquota": 0.14
+    }
+  ],
+  "FaixasIR": [
+    {
+      "Faixa": 2,
+      "Aliquota": 0.0
+    },
+    {
+      "Faixa": 4,
+      "Aliquota": 0.05
+    },
+    {
+      "Faixa": 5,
+      "Aliquota": 0.10
+    },
+    {
+      "Faixa": 7,
+      "Aliquota": 0.15
+    },
+    {
+      "Faixa": 8,
+      "Aliquota": 0.20
+    }
+  ]
+}
